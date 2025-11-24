@@ -8,7 +8,7 @@ O projeto Somando Números tem o objetivo de demostrar a interatividade da lingu
 Adiante disso, este projeto demostra o meu desenvolvimento e conhecimentos adiquiridos por meio da construção e modificação do projeto original visto em aula.
 
 ## Layout web
-![img 2](img2.PNG)
+![img-01](Assets/img-01.PNG)
 
 ![img 1](img1.PNG)
 
