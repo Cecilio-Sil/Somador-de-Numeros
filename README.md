@@ -9,8 +9,8 @@ Adiante disso, este projeto demostra o meu desenvolvimento e conhecimentos adiqu
 
 ## Layout web
 ![img-01](Assets/img-01.PNG)
-
-![img 1](img1.PNG)
+![img-02](Assets/img-02.PNG)
+![img-03](Assets/img-03.PNG)
 
 # Tecnologias utilizadas
 - javaScript
